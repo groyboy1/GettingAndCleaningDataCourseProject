@@ -26,13 +26,13 @@ More details about the raw data and how it was collected can be found in the raw
 
 
 The following actions are performed by the run_analysis.R script to go from the raw data to the tidy data:
-
-1) The training and the test sets were merged to create one data set.
-2) Only the measurements on the mean and standard deviation were extracted for each measurement. 
-3) Descriptive activity names were used to name the activities in the data set
-4) The data set was appropriately labeled with descriptive variable names.
-5) The dataset was summarized using the average of each variable for each activity and each subject.
-
+<ul>
+<li>The training and the test sets were merged to create one data set.</li>
+<li>Only the measurements on the mean and standard deviation were extracted for each measurement.</li> 
+<li>Descriptive activity names were used to name the activities in the data set</li>
+<li>The data set was appropriately labeled with descriptive variable names.</li>
+<li>The dataset was summarized using the average of each variable for each activity and each subject.</li>
+</ul>
 
 References:
 ================
